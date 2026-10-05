@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Visitors&color=0e75b6&style=flat" alt="norz01" />
+  <img src="https://komarev.com/ghpvc/?username=norz01&label=Profile%20Visitors&color=0e75b6&style=flat" alt="norz01" />
   <img src="https://img.shields.io/badge/Proxmox%20Cluster-Online-28a745?style=flat-square&logo=proxmox&logoColor=white" alt="Proxmox Status">
   <img src="https://img.shields.io/badge/Tailscale%20Overlay-Secure-1e1e1e?style=flat-square&logo=tailscale&logoColor=white" alt="Tailscale">
 </p>
@@ -48,12 +48,12 @@ I'm a **Final-year Cloud Computing student** at **TVETMARA Besut** focused on cl
 ### 📊 System Metrics
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=norz01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=norz01&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&no-frame=true&row=1&column=7" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=norz01&theme=onedark&no-frame=true&row=1&column=7" alt="Trophies" />
 </p>
 
 ---
